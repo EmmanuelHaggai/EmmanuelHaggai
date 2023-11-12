@@ -1,11 +1,11 @@
 # Hey there! 👋 I'm Emmanuel Haggai
 
-Welcome to my coding playground! 🚀 I'm a passionate web 2 and web 3 developer with a love for creating awesome web applications and dabbling in blockchain magic. If you are curious about the lines of code that fuel my enthusiasm, you're in the right place!
+Welcome to my coding playground! 🚀 I'm a passionate web 2 and web 3 developer, with a love for creating awesome web applications and dabbling in blockchain magic. If you are curious about the lines of code that fuel my enthusiasm, you're in the right place!
 
 ## 💻 Tech Stack
 
 - 🌐 **Web Development:** HTML, CSS, JavaScript, PHP, Python
-- ⚙️ **Backend Magic:** Node.js, TypeScript sometimes PHP or Python too
+- ⚙️ **Backend Magic:** Node.js, TypeScript and again either PHP or Python 
 - 🧠 **Smart Contracts:** Solidity, Typescript or Rust
 - 🚀 **Other Adventures:** C (because classics never go out of style! ;-) )
 
