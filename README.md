@@ -26,10 +26,6 @@ Welcome to my coding playground! 🚀 I'm a passionate web 2 and web 3 developer
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuelhaggai/) or [Twitter](https://twitter.com/emmanuelhaggai). Let's chat about code, tech, or anything under the sun! 🌞
 
-## 👨‍💻 GitHub Stats
-
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuelhaggai&show_icons=true&theme=dark)
-
----
+----
 
 And btw, thanks for dropping by! May your code be bug-free and your coffee always strong. Happy coding! 🚀✨
