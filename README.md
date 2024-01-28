@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Emmanuel Haggai
 
-Welcome to my coding playground! 🚀 I'm a passionate web 2 and web 3 developer, with a love for creating awesome web applications and dabbling in blockchain magic. If you are curious about the lines of code that fuel my enthusiasm, you're in the right place!
+Welcome to my coding playground! I'm a passionate web 2 and web 3 developer, with a love for creating awesome web applications and dabbling in blockchain magic. If you are curious about the lines of code that fuel my enthusiasm, you're in the right place!
 
 ## 💻 Tech Stack
 
