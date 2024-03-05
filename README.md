@@ -6,7 +6,7 @@ Welcome to my coding playground! I'm a passionate web 2 and web 3 developer, wit
 
 - 🌐 **Web Development:** HTML, CSS, JavaScript, PHP, Python
 - ⚙️ **Backend Magic:** Node.js, TypeScript and again either PHP or Python 
-- 🧠 **Smart Contracts:** Solidity, Typescript or Rust
+- 🧠 **Smart Contracts:** Solidity, Typescript, Motoko or Rust
 - 🚀 **Other Adventures:** C (because classics never go out of style! ;-) )
 
 ## 🛠️ Tools of the Trade
