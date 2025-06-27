@@ -1,31 +1,49 @@
-# Hey there! 👋 I'm Emmanuel Haggai
+# 👨‍💻 Emmanuel Haggai
 
-Welcome to my coding playground! I'm a passionate web 2 and web 3 developer, with a love for creating awesome web applications and dabbling in blockchain magic. If you are curious about the lines of code that fuel my enthusiasm, you're in the right place!
+Welcome to my coding space. I’m a full-stack developer with a focus on both Web2 and Web3 technologies. I enjoy building intuitive web applications and exploring blockchain-based solutions.
 
-## 💻 Tech Stack
+---
 
-- 🌐 **Web Development:** HTML, CSS, JavaScript, PHP, Python
-- ⚙️ **Backend Magic:** Node.js, TypeScript and again either PHP or Python 
-- 🧠 **Smart Contracts:** Solidity, Typescript, Motoko or Rust
-- 🚀 **Other Adventures:** C (because classics never go out of style! ;-) )
+## Tech Stack
 
-## 🛠️ Tools of the Trade
+**🌐 Web Development**  
+HTML · CSS · JavaScript · PHP · Python
 
-- 💻 Visual Studio Code - My coding companion
-- 🚢 Git and GitHub - Where the magic happens
-- 🐍 Jupyter Notebooks - For those data science excursions
-- 🐳 Docker - Containerizing my creations
+**⚙️ Backend Development**  
+Node.js · TypeScript · PHP · Python
 
-## 🌱 Currently Learning
+**🧠 Smart Contracts**  
+Solidity · TypeScript · Motoko · Rust
 
-- 🔗 Exploring the depths of Blockchain
-- 🧑‍💻 Improving my C skills
-- 🚀 Always diving into the latest web development trends
+**🧾 Other Languages**  
+C
 
-## 📫 Let's Connect!
+---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuelhaggai/) or [Twitter](https://twitter.com/emmanuelhaggai). Let's chat about code, tech, or anything under the sun! 🌞
+## 🛠 Tools I Use
+
+- 💻 Visual Studio Code  
+- 🚢 Git & GitHub  
+- 📓 Jupyter Notebooks  
+- 🐳 Docker  
+
+---
+
+## 📚 Currently Learning
+
+- 🔗 Advanced Blockchain Development  
+- 🧑‍💻 Low-level Programming with C  
+- 🌐 Emerging Trends in Web Development  
+
+---
+
+## 🤝 Connect with Me
+
+Feel free to reach out on:
+
+- [LinkedIn - https://www.linkedin.com/in/emmanuelhaggai](https://www.linkedin.com/in/emmanuelhaggai/)  
+- [Twitter - https://twitter.com/emmanuelhaggai](https://twitter.com/emmanuelhaggai)
 
 ----
 
-And btw, thanks for dropping by! May your code be bug-free and your coffee always strong. Happy coding! 🚀✨
+And btw, thanks for dropping by! May your code be bug-free and your coffee always strong. Happy coding! ✨
