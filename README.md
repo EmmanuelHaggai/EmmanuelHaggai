@@ -32,7 +32,7 @@ C
 ## 📚 Currently Learning
 
 - 🔗 Advanced Blockchain Development  
-- 🧑‍💻 Low-level Programming with C  
+- 🧑‍💻 Low-level Programming with Rust  
 - 🌐 Emerging Trends in Web Development  
 
 ---
