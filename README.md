@@ -4,9 +4,7 @@
 
 ---
 
-## 🚀 About Me
-
-I build systems that move real money, serve real users, and solve real problems.
+## About Me
 
 I am the founder and lead developer behind **Hedera AutoVest AI**, a WhatsApp-native investing platform designed to make investing and payments as simple as sending a message. My work sits at the intersection of payments, automation, and on-chain finance, where reliability matters more than buzzwords and uptime matters more than opinions.
 
